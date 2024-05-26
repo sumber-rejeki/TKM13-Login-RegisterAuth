@@ -1,5 +1,8 @@
 ##Firebase Authentication and filter input text editing
-
+### Output
+<p float="left">
+  <img src="https://github.com/sumber-rejeki/TKM09-Aplikasi-Kalkulator/blob/d04609a12b24f42a1c8faafebac8170085214d50/k_night.jpg?raw=true" alt="Night" width="400"/>
+</p>
 
 ```javascript
         //Fullname validation
