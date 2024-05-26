@@ -1,4 +1,4 @@
-###Firebase Authentication and filter input text editing
+##Firebase Authentication and filter input text editing
 
 
 ```javascript
