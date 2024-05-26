@@ -1,4 +1,20 @@
-##Firebase Authentication and filter input text editing
+
+### Deskripsi Proyek
+
+Aplikasi login sederhana menggunakan bahasa pemrograman Kotlin dan lingkungan pengembangan Android Studio. Aplikasi ini harus memiliki dua tampilan: tampilan pertama untuk memasukkan email dan password, dan tampilan kedua yang akan menampilkan email yang dimasukkan jika login berhasil.
+
+### Tahapan Proyek
+
+#### Desain Aplikasi
+1.	Desain tampilan aplikasi dengan dua tampilan (Activity). Tampilan pertama harus memiliki field untuk memasukkan email dan password, serta tombol untuk melakukan login.
+
+#### Implementasi Activity
+1.	Ketika pengguna memasukkan email dan password yang valid, alihkan mereka ke tampilan kedua.
+2.	Tampilan kedua harus menampilkan email yang dimasukkan pengguna di tampilan pertama.
+
+#### Pengujian
+1.	Uji aplikasi Anda di emulator Android untuk memastikan operasi Firebase Auth berfungsi dengan baik.
+
 ### Output
 <p float="left">
   <img src="https://github.com/sumber-rejeki/TKM13-Login-RegisterAuth/blob/d944db6fa351145f548f8c2cdbb5b97caf4beb6c/UII.png?raw=true" alt="ui"/>
@@ -116,3 +132,14 @@
         binding.etConfirmPassword.error = if (isNotValid) "Password tidak valid!" else null
     }
 ```
+### Authors
+
+- [Bagus Erwanto](https://www.github.com/volumeee)
+- [Muhamad Rifki Kurniawan](https://github.com/mrifki2204)
+- [Rizki Ramdhani](https://github.com/RizkiRamdhani05)
+- [Muhammad Erdiansyah](https://github.com/erdiansyahm)
+- [Nova Aditya](https://github.com/NVdty)
+
+### Support
+
+Untuk support, Sumber Rejeki Team. Kelompok 2 SI6-Android-Mobile-Developer-Stechoq-Academy
