@@ -36,4 +36,14 @@
     <string name="home_title">Hello World</string>
     <string name="home_sub_title">Welcome to home</string>
     <string name="btn_logout">LOGOUT</string>
+    <string name="reset_pw_title">Reset Your Password</string>
+    <string name="reset_pw_sub_title">
+        <font color="#00C988"><b>Reset Password</b></font>
+        if you forgot your password.
+    </string>
+    <string name="btn_reset_pw">Reset Password</string>
+    <string name="back_to_login">
+        Back to
+        <font color="#00C988"><b>Login</b></font>
+    </string>
 </resources>
